@@ -156,7 +156,7 @@ docker 命令  --help #万能命令
 
 ### 镜像命令
 
-#### **docker images **
+#### docker images 
 
 **查看本机上的所有镜像**
 
@@ -176,7 +176,7 @@ SIZE		镜像的大小
 -q,--quiet	#只显示镜像的id
 ```
 
-#### **docker serach **
+#### docker serach
 
 **搜搜镜像**
 
